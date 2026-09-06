@@ -1,0 +1,6 @@
+boto3
+deepface
+numpy
+opencv-python
+scipy
+python-dotenv
